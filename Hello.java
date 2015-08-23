@@ -9,6 +9,6 @@ class Hello{
 
 class New{
 	public void Print() {
-		System.out.println("New method");
+		System.out.println("New method created");
 	}
 }
